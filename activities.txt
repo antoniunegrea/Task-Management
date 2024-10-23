@@ -1,0 +1,9 @@
+8
+roof 1 dig foundation walls
+foundation 2 dig
+dig 5
+walls 3 dig foundation
+plow 1
+plant 3 plow
+water 50 plant plow
+harvest 5 plant water plow
